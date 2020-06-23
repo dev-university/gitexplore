@@ -1,0 +1,15 @@
+#this is a comment
+
+#no matter what the name is ignore all the js files
+*.js 
+node_modules/
+assets/videos/
+*.mp4
+
+#do not ignore app.js
+!app.js
+
+#only for MAC users
+DS_Store
+
+*.log
