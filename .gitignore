@@ -13,3 +13,4 @@ assets/videos/
 DS_Store
 
 *.log
+*.php
