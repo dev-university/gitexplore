@@ -1,8 +1,6 @@
-onefunction - I have added one ok function here
+onefunction - I have added an important function here
 Twofunction - I have added another a very important function here
 Threefunction - I have added unnecessary function
 
 
 added a chart function in our branch
-
-adding a new function to login user via X method
